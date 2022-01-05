@@ -26,10 +26,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```js
 
     //Clonar o repositório
-    $ git clone https://github.com/TayseRosa/rn-contador-agua.git
+    $ git clone https://github.com/TayseRosa/rn-criador-de-mimimi
 
     //Entrar no diretório
-    $ cd rn-contador-agua
+    $ cd rn-criador-de-mimimi
 
     //Instalar dependências
     $ yarn install 
