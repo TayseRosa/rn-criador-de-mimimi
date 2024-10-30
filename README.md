@@ -2,7 +2,7 @@
 
 # 🛠 Sobre o Projeto RN - Criador de Memes
 <p align="center">
-<img src="./img/readme.jpeg" width="100%" height="auto" />
+<img src="./img/readme.jpeg" width="30%" height="auto" />
 </p>
 
 # 🚀 Tecnologias utilizadas neste projeto
